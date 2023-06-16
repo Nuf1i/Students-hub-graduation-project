@@ -14,12 +14,12 @@ Main sections
 * User Profile
   
 Features
-• Upload files such as ( videos , images , pdf )
-• Dynamic input
-• Enroll action
-• Dashboard
-• Different user's role
-• Protect URL root
+* Upload files such as ( videos , images , pdf )
+*  Dynamic input
+*  Enroll action
+* Dashboard
+* Different user's role
+* Protect URL root
 
 ## Landing Page
 ![Landing Page](https://github.com/Nuf1i/Students-hub-graduation-project/blob/main/Preview/landing_page.png)
