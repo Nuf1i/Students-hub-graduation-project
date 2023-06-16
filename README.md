@@ -35,3 +35,6 @@ Features
 
 ## Internship feedback Section
 ![Landing Page](https://github.com/Nuf1i/Students-hub-graduation-project/blob/main/Preview/internship.png)
+
+## Admin Dashboard Section
+![Landing Page](https://github.com/Nuf1i/Students-hub-graduation-project/blob/main/Preview/dashboard.png)
