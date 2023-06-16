@@ -23,3 +23,15 @@ Features
 
 ## Landing Page
 ![Landing Page](https://github.com/Nuf1i/Students-hub-graduation-project/blob/main/Preview/landing_page.png)
+
+## Courses Section
+![Landing Page](https://github.com/Nuf1i/Students-hub-graduation-project/blob/main/Preview/Courses.png)
+
+## Slides Section
+![Landing Page](https://github.com/Nuf1i/Students-hub-graduation-project/blob/main/Preview/slides.png)
+
+## Blog Section
+![Landing Page](https://github.com/Nuf1i/Students-hub-graduation-project/blob/main/Preview/blog.png)
+
+## Internship feedback Section
+![Landing Page](https://github.com/Nuf1i/Students-hub-graduation-project/blob/main/Preview/internship.png)
