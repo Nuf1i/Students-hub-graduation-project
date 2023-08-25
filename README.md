@@ -1,4 +1,4 @@
-# Sutdent Hub [Live Demo](https://student-hub-deploy-production.up.railway.app/)
+# Sutdent Hub [Live Demo](https://student-hub-deploy.vercel.app)
 
 **Self-learning platform will help university students in many ways, including
 studying courses and slides from students, learning new things from blogs, and
